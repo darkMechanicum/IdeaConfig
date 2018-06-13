@@ -1,3 +1,4 @@
+# Exclude various IDEA stuff...
 c.kdbx
 pdb.pwd
 port
@@ -5,4 +6,14 @@ port.lock
 jdbc-drivers
 tasks
 plugins
- options/recentProjects.xml
+options/**
+
+# ... but include customized configs
+!options/colors.scheme.xml
+!options/ide.general.xml
+!options/keymap.xml
+!options/laf.xml
+!options/
+!options/
+!options/
+!options/
