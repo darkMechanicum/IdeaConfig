@@ -20,6 +20,12 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl y" second-keystroke="b" />
   </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="shift ctrl y" second-keystroke="f" />
+  </action>
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" second-keystroke="s" />
+  </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="shift alt f11" />
   </action>
