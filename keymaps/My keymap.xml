@@ -12,4 +12,10 @@
   <action id="Maven.ExecuteGoal">
     <keyboard-shortcut first-keystroke="shift ctrl y" second-keystroke="m" />
   </action>
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" second-keystroke="s" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="shift alt f11" />
+  </action>
 </keymap>
