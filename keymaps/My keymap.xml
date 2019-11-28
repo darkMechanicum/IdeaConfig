@@ -1,0 +1,15 @@
+<keymap version="1" name="My keymap" parent="$default">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt f3" />
+  </action>
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt f1" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="shift ctrl y" second-keystroke="b" />
+  </action>
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="shift ctrl y" second-keystroke="m" />
+  </action>
+</keymap>
