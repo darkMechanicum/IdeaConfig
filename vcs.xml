@@ -10,6 +10,10 @@
           <option name="url" value="https://Aleksandr.Tsarev@stash.billing.ru/scm/tbinp/oapi_backend_common_lib.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="darkMechanicum" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Aleksandr.Tsarev\IdeaProjects" />
