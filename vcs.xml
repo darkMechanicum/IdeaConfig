@@ -3,32 +3,19 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
+          <option name="url" value="https://Aleksandr.Tsarev@stash.billing.ru/scm/rtco/cam.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="http://stash.billing.ru" />
           <option name="userName" value="Aleksandr.Tsarev" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://Aleksandr.Tsarev@stash.billing.ru/scm/tbinp/oapi_backend_common_lib.git" />
+          <option name="url" value="https://Aleksandr.Tsarev@stash.billing.ru/scm/rtco/tailored_crm_b2b_rt_hq.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="darkMechanicum" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Aleksandr.Tsarev\IdeaProjects" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
-      </list>
-    </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
+    <option name="cloneParentDir" value="/dev/shm" />
   </component>
 </application>
