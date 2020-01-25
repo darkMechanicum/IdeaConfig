@@ -5,7 +5,14 @@
   <action id="AnnotationUtils">
     <keyboard-shortcut first-keystroke="shift ctrl y" second-keystroke="u" />
   </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="alt f10" />
+  </action>
   <action id="EditorPasteFromX11" />
+  <action id="ExternalSystem.EditRunConfiguration">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="button2" />
@@ -13,4 +20,6 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
+  <action id="RunJsbtTask" />
+  <action id="ShowExecutionPoint" />
 </keymap>
