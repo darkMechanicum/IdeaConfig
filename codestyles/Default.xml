@@ -1,11 +1,11 @@
 <code_scheme name="Default" version="173">
   <JavaCodeStyleSettings>
-    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="40" />
-    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="40" />
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
   </JavaCodeStyleSettings>
   <JetCodeStyleSettings>
-    <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="40" />
-    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="40" />
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="100" />
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="100" />
   </JetCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <indentOptions>
