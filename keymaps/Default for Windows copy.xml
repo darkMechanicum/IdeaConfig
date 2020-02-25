@@ -1,0 +1,30 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt f3" />
+  </action>
+  <action id="ActivateGradleToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt f2" />
+  </action>
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt f1" />
+  </action>
+  <action id="AnnotationUtils">
+    <keyboard-shortcut first-keystroke="shift ctrl y" second-keystroke="p" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl y" second-keystroke="b" />
+  </action>
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="shift ctrl y" second-keystroke="m" />
+  </action>
+  <action id="PullAnnotationUp">
+    <keyboard-shortcut first-keystroke="shift ctrl y" second-keystroke="p" />
+  </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="shift ctrl y" second-keystroke="g" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="shift alt f11" />
+  </action>
+</keymap>
