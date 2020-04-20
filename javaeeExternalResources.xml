@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="https://checkstyle.org/dtds/suppressions_1_0.dtd" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/c4e30fb8_suppressions_1_0.dtd" />
+  </component>
+</application>
