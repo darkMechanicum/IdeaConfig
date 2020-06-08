@@ -18,6 +18,9 @@
   <action id="Maven.ExecuteGoal">
     <keyboard-shortcut first-keystroke="shift ctrl y" second-keystroke="m" />
   </action>
+  <action id="PullAnnotationUp">
+    <keyboard-shortcut first-keystroke="shift ctrl y" second-keystroke="p" />
+  </action>
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="shift ctrl y" second-keystroke="s" />
   </action>
