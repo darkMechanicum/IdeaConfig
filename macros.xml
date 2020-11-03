@@ -1,0 +1,20 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="macro1">
+      <action id="EditorLineEndWithSelection" />
+      <action id="EditorCut" />
+      <action id="EditorBackSpace" />
+      <action id="EditorUp" />
+      <action id="EditorLineEndWithSelection" />
+      <action id="ReplaceInPath" />
+      <shortuct text="TAB" />
+      <action id="EditorLineStartWithSelection" />
+      <action id="EditorPaste" />
+      <shortuct text="ENTER" />
+      <shortuct text="ESCAPE" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorLineStart" />
+    </macro>
+  </component>
+</application>
